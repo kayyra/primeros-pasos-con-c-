@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\GitHub\CSP\bin\Debug\net8.0\CSP.exe
+C:\Users\Ana\Documents\GitHub\CSP\bin\Debug\net8.0\CSP.deps.json
+C:\Users\Ana\Documents\GitHub\CSP\bin\Debug\net8.0\CSP.runtimeconfig.json
+C:\Users\Ana\Documents\GitHub\CSP\bin\Debug\net8.0\CSP.dll
+C:\Users\Ana\Documents\GitHub\CSP\bin\Debug\net8.0\CSP.pdb
+C:\Users\Ana\Documents\GitHub\CSP\obj\Debug\net8.0\CSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\GitHub\CSP\obj\Debug\net8.0\CSP.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\GitHub\CSP\obj\Debug\net8.0\CSP.AssemblyInfo.cs
+C:\Users\Ana\Documents\GitHub\CSP\obj\Debug\net8.0\CSP.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\GitHub\CSP\obj\Debug\net8.0\CSP.sourcelink.json
+C:\Users\Ana\Documents\GitHub\CSP\obj\Debug\net8.0\CSP.dll
+C:\Users\Ana\Documents\GitHub\CSP\obj\Debug\net8.0\refint\CSP.dll
+C:\Users\Ana\Documents\GitHub\CSP\obj\Debug\net8.0\CSP.pdb
+C:\Users\Ana\Documents\GitHub\CSP\obj\Debug\net8.0\CSP.genruntimeconfig.cache
+C:\Users\Ana\Documents\GitHub\CSP\obj\Debug\net8.0\ref\CSP.dll
